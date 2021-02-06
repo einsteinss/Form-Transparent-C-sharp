@@ -1,0 +1,8 @@
+E:\9-Github\Full Form Transparent\Form-Transparent-C-\Form Transparent\Form Transparent C#\obj\Debug\Form Transparent C#.csprojResolveAssemblyReference.cache
+E:\9-Github\Full Form Transparent\Form-Transparent-C-\Form Transparent\Form Transparent C#\obj\Debug\Form Transparent C#.csproj.GenerateResource.Cache
+E:\9-Github\Full Form Transparent\Form-Transparent-C-\Form Transparent\Form Transparent C#\bin\Debug\Form Transparent C#.exe.config
+E:\9-Github\Full Form Transparent\Form-Transparent-C-\Form Transparent\Form Transparent C#\bin\Debug\Form Transparent C#.exe
+E:\9-Github\Full Form Transparent\Form-Transparent-C-\Form Transparent\Form Transparent C#\bin\Debug\Form Transparent C#.pdb
+E:\9-Github\Full Form Transparent\Form-Transparent-C-\Form Transparent\Form Transparent C#\obj\Debug\Form Transparent C#.exe
+E:\9-Github\Full Form Transparent\Form-Transparent-C-\Form Transparent\Form Transparent C#\obj\Debug\Form Transparent C#.pdb
+E:\9-Github\Full Form Transparent\Form-Transparent-C-\Form Transparent\Form Transparent C#\obj\Debug\Form_Transparent_C_.F1.resources
