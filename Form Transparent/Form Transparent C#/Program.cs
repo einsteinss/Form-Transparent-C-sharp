@@ -24,7 +24,7 @@ namespace Form_Transparent_C_
 		{
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
-			Application.Run(new F1());
+			Application.Run(new F2());
 		}
 		
 	}

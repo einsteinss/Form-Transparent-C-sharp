@@ -50,9 +50,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="F1.cs" />
-    <Compile Include="F1.Designer.cs">
-      <DependentUpon>F1.cs</DependentUpon>
+    <Compile Include="F2.cs" />
+    <Compile Include="F2.Designer.cs">
+      <DependentUpon>F2.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -65,8 +65,8 @@
     <Folder Include="Multimedia\img" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="F1.resx">
-      <DependentUpon>F1.cs</DependentUpon>
+    <EmbeddedResource Include="F2.resx">
+      <DependentUpon>F2.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
